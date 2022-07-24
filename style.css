@@ -1,0 +1,98 @@
+.wedding-title {
+    font-size: 2.3em;
+    font-weight: bold;
+}
+
+.wedding-p {
+    font-weight: bold;
+    color: #6C6C6C;
+}
+
+.wedding-btn {
+    border-radius: 0;
+}
+
+.card-text-list li {
+    list-style: none;
+    color: #848199;
+
+}
+
+.card-text-active li {
+    list-style: none;
+    color: #fff;
+}
+
+.srv-icon {
+    color: #43c258;
+    background-color: #43c24e23;
+    padding: 3px;
+    font-size: 15px;
+    border-radius: 36px;
+    margin-right: 7px;
+}
+
+.srv-icon-active {
+    color: #fff;
+    background-color: #ada7da46;
+    padding: 3px;
+    font-size: 15px;
+    border-radius: 36px;
+    margin-right: 7px;
+}
+
+.card-text-p {
+    color: #848199;
+}
+
+#alert-box {
+    right: 15px;
+    width: 278px;
+    top: 120%;
+    height: 12%;
+}
+
+.price-btn {
+    background-color: rgba(12, 58, 12, 0.171) !important;
+    color: green !important;
+    font-weight: bold !important;
+    padding: 10px 0 !important;
+}
+
+.price-btn-active {
+    background-color: #ffffff !important;
+    color: green !important;
+    font-weight: bold !important;
+    padding: 10px 0 !important;
+}
+
+
+.card-background {
+    background-color: green !important;
+}
+
+.card-active-shadow {
+    box-shadow: 0px 30px 35px -8px #43c2588c;
+}
+
+.client-shadow {
+    box-shadow: 0px 10px 40px -12px #43c25863;
+}
+
+.accordian-border {
+    border: 1px solid rgba(0, 128, 0, 0.281) !important;
+}
+
+.footer-icon {
+    color: #fff;
+    font-size: 30px;
+}
+
+.apple-p {
+    font-size: 8px;
+}
+
+footer {
+    background-color: #000 !important;
+
+}
