@@ -54,21 +54,21 @@
 
 .price-btn {
     background-color: rgba(12, 58, 12, 0.171) !important;
-    color: green !important;
+    color: #157347 !important;
     font-weight: bold !important;
     padding: 10px 0 !important;
 }
 
 .price-btn-active {
     background-color: #ffffff !important;
-    color: green !important;
+    color: #157347 !important;
     font-weight: bold !important;
     padding: 10px 0 !important;
 }
 
 
 .card-background {
-    background-color: green !important;
+    background-color: #157347 !important;
 }
 
 .card-active-shadow {
@@ -80,7 +80,7 @@
 }
 
 .accordian-border {
-    border: 1px solid rgba(0, 128, 0, 0.281) !important;
+    border: 1px solid #1573477e !important;
 }
 
 .footer-icon {
